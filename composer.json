@@ -1,5 +1,5 @@
 {
-  "name": "mrjgreen/db-sync",
+  "name": "wondeltd/db-sync",
   "type": "library",
   "description": "Efficient MySQL comparison and sync utility",
   "license" : "MIT",
